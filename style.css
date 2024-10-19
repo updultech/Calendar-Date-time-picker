@@ -39,9 +39,7 @@ h1{
 body{
     background-color:white;
 }
-@media screen(min-width:600px){
-}
-@media screen(max-width:600px){
+@media only screen and(max-width:480px){
 }
 
 
